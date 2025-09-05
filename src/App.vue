@@ -17,6 +17,9 @@ const decrement = () => {
       <p>{{ contador }}</p>
       <button class="text-xl border rounded-2xl px-4 py-2 hover:bg-white cursor-pointer" @click="decrement">-</button>
     </div>
+    <div>
+      <p>Olá</p>
+    </div>
   </section>
 </template>
 
